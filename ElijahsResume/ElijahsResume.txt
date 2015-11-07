@@ -1,0 +1,36 @@
+{
+  "document": [
+    {
+      "reference": "ElijahCarrelResume.pdf",
+      "doc_iod_reference": "2a89090159fbc0d024ef0f7feba87dd8",
+      "content_type": [
+        "application/pdf"
+      ],
+      "document_attributes": [
+        "0"
+      ],
+      "document_embedded_font_ratio": [
+        "0"
+      ],
+      "document_pct_embedded_font": [
+        "0"
+      ],
+      "document_pct_probability_mismatch": [
+        "0"
+      ],
+      "file_size": [
+        130071
+      ],
+      "processing_error_code": [
+        "1"
+      ],
+      "processing_error_description": [
+        "Document: Embedded Font"
+      ],
+      "content": "Elijah Carrel 69 Brown St #3116 elijah_carrel@brown.edu 2 N Roby Rd Providence, RI 02912 elijahcarrel.42pag.es Madison, WI 53726 Education BROWN UNIVERSITY May 2018 Computer Science Concentrator, Pre­Med Track. Providence, RI Relevant coursework: Accelerated Introduction to Computer Science, Introduction to Computer Systems, Models of Computation, Introduction to Software Engineering (Spring 2016) MADISON WEST HIGH SCHOOL June 2014 Peer Tutor. Varsity Singing Team. Madison, WI Projects CO­FOUNDER AND PROGRAMMER, INBOX COMICS June 2014 – Present ● Programmed the entire back­end and front­end of inboxcomics.com in HTML/CSS, PHP, and MySQL. ● Developed and managed a secure subscription database and daily comic emails. ● Implemented efficient client­side search filtering with jQuery. Leadership and Teaching TEACHING ASSISTANT, BROWN UNIV. DIVISION OF APPLIED MATHEMATICS September 2015 – Present ● Led recitation sections, tutorials in Matlab and LaTeX, and office hours as sole teaching assistant. Research and Clinical Experience INTERN, RHODE ISLAND HOSPITAL CHILDHOOD ASTHMA RESEARCH PROGRAM October 2015 – Present ● Visited homes to conduct research sessions with food­allergic and asthmatic children and parents ● Assisted with translating research surveys into Spanish for non­English­speaking participants INDEPENDENT RESEARCH PROJECT January 2014 – June 2014 ● Designed experiment on antibiotic sensitivity and inter­species competition in E. coli; cultivated bacterial populations in vitro; created a rudimentary fluorescent microscope from a standard light microscope; created dynamic computer simulation of protein inhibition. ● Wrote manuscript on fractal patterns produced in bacteria. WISCONSIN ICECUBE PARTICLE ASTROPHYSICS CENTER INTERNSHIP February 2013 – June 2013 ● Used custom software to visualize and categorize neutrino interactions detected by South Pole observatory. UNIVERSITY OF WISCONSIN–MADISON SCIENCE RESEARCH INTERNSHIP June 2012 — August 2012 ● Killpack, Carrel, Karasov. Impacts of Short­Term Food Restriction on Immune Development in Altricial House Sparrow Nestlings. Physiol. Biochem. Zool. 2015: 195­207. ● Designed and carried out muscle assay procedures; performed dissections. SMART (STUDENTS MODELLING A RESEARCH TOPIC) TEAM September 2011 – April 2012 ● Carrel et al. E. coli’s Multidrug Transporter Complex: A SMART Team Exploration of Drug Resistance Mechanisms. FASEB J. 2012;26:lb269. Honors 2nd Place, Council for Wisconsin Writers' Essay Award for Young Writers May 2013 Peer­selected as Homeroom Leader for Freshman Orientation August 2013 Employment Group Counselor, Camp Shalom, Verona, WI June – August, 2014 – 2015 Cabin Counselor, Camp Interlaken JCC, Eagle River, WI June 2013 – August 2013 Hebrew and Music Teacher, Temple Beth El, Madison, WI September 2010 – May 2014 Skills Programming: Proficient in Java, C, PHP, HTML, Racket, and Matlab. Proficient in object­oriented and functional paradigms. Language: Proficient in Spanish."
+    }
+  ],
+  "md5sum": [
+    "7a85d7a7bc3e27799b49e83651f01dce"
+  ]
+}
